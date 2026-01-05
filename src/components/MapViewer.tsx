@@ -13,7 +13,7 @@ import {
     type Node,
 } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
-import { UnlockableNode, type UnlockableNodeData } from './UnlockableNode';
+import { UnlockableNode } from './UnlockableNode';
 
 const nodeTypes = {
     unlockable: UnlockableNode,
